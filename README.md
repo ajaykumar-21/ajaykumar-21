@@ -4,4 +4,4 @@
 
 🔭 I was working on Coforge
 <br>
-📫 How to reach me: Email: ajaykumarpk789@gmail.com
+📫 How to reach me: ajaykumarpk789@gmail.com
