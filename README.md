@@ -1,7 +1,24 @@
 👋 Hi, I'm Ajay Kumar!
+🚀 Frontend Developer | 🎨 UI Enthusiast | 💻 JavaScript Expert
 
-🌐 Frontend Developer | 🖥️ React Enthusiast | 💡 Lifelong Learner
+Welcome to my GitHub profile! I'm a passionate frontend developer with 1 year of professional experience, skilled in building user-friendly and responsive web applications.
 
-🔭 I was working on Coforge
-<br>
-📫 How to reach me: ajaykumarpk789@gmail.com
+🔧 Technical Skills
+Frontend Development
+- Languages: JavaScript, HTML, CSS
+- Frameworks/Libraries: React.js, Redux, Next.js
+- UI Libraries: Material UI, Tailwind CSS, Bootstrap
+  
+Tools & Technologies
+- Version Control: Git, GitHub
+- Testing: Postman
+- Other Tools: VS Code, NPM, Babel, Webpack
+
+🌟 Key Achievements
+- Delivered multiple projects under tight deadlines with high code quality.
+- Gained proficiency in server-side rendering (SSR) and SEO optimization for modern web apps.
+- Hands-on experience with modern frontend workflows and development environments.
+
+🤝 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ajaykumar789
+- Email: ajaykumarpk789@gmail.com
