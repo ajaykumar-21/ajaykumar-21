@@ -1,7 +1,7 @@
 👋 Hi, I'm Ajay Kumar!
 🚀 Frontend Developer | 🎨 UI Enthusiast | 💻 JavaScript Expert
 
-Welcome to my GitHub profile! I'm a passionate frontend developer with 1 year of professional experience, skilled in building user-friendly and responsive web applications.
+Welcome to my GitHub profile! I'm a passionate frontend developer with professional experience, skilled in building user-friendly and responsive web applications.
 
 🔧 Technical Skills
 Frontend Development
